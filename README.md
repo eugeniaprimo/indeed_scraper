@@ -1,12 +1,14 @@
 # <h1 align="center"> Scraper scripts with Python </h1>
 
-This repository is being constructed...
+_This repository is being constructed..._
 
-1.Indeed Scrapper
-   ⋅⋅1.1 Description
-   ⋅⋅1.2 Requirements
-   ⋅⋅1.3 Output
+# Indeed Scraper
+1. [Description](#Description)
+2. [Requirements](#Requirements)
+3. [Output](#Output)
 
-
+## Description
+## Requirements
+## Output
 
 
