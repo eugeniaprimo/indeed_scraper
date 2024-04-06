@@ -3,12 +3,12 @@
 _This repository is being constructed..._
 
 # Indeed Scraper
-1. [Description](#Description)
-2. [Requirements](#Requirements)
-3. [Output](#Output)
+1. [Description](#1.Description)
+2. [Requirements](#2.Requirements)
+3. [Output](#3.Output)
 
-## Description
-## Requirements
-## Output
+## 1.Description
+## 2.Requirements
+## 3.Output
 
 
