@@ -3,9 +3,9 @@
 This repository is being constructed...
 
 1. Indeed Scrapper
-   1.1 Description
-   1.2 Requirements
-   1.3 Output
+   ⋅⋅1.1 Description
+   ⋅⋅1.2 Requirements
+   ⋅⋅1.3 Output
 
 
 
