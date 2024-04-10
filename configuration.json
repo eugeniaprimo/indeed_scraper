@@ -1,0 +1,25 @@
+{
+    "configuration": {
+        "keywords": [
+            "software developer",
+            "data analyst",
+            "data scientist",
+            "data engineer",
+            "QA automation",
+            "developer"
+        ],
+        "location": [
+            "remote"
+        ],
+        "countries": [
+            "uk",
+            "it",
+            "es",
+            "de",
+            "fr"
+        ],
+        "driver_path": 
+            "C:\\Users\\Usuario\\Documents\\FREELANCER\\Repositorios\\indeed_scraper\\chromedriver.exe"
+        
+    }
+}
